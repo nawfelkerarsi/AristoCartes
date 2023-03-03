@@ -1,21 +1,21 @@
-# Aristocarte
+# AristoCartes
 
-Aristocarte est un jeu de cartes. Le but est de réduire les points de prestige de l'adversaire à zéro en utilisant des cartes qui ont des statistiques d'attaque, de défense et de magie. Le vainqueur est le premier à envoyer son adversaire dans la boue (prestige à zéro) ou d’avoir plus de prestige que son adversaire à la fin de l’affrontement (lorsqu’il n’y a plus de carte ou lorsque les deux joueurs sont dans le négatif).
+AristoCartes est un jeu de cartes. Le but est de réduire les points de prestige de l'adversaire à zéro en utilisant des cartes qui ont des statistiques d'attaque, de défense et de magie. Le vainqueur est le premier à envoyer son adversaire dans la boue (prestige à zéro) ou d’avoir plus de prestige que son adversaire à la fin de l’affrontement (lorsqu’il n’y a plus de carte ou lorsque les deux joueurs sont dans le négatif).
 
 ## Installation
-Pour installer Aristocarte, vous devez disposer du compilateur C++ et de la bibliothèque standard C++ STL. Vous pouvez cloner le dépôt GitHub et compiler le programme en utilisant les commandes suivantes :
+Pour installer AristoCartes, vous devez disposer du compilateur C++ et de la bibliothèque standard C++ STL. Vous pouvez cloner le dépôt GitHub et compiler le programme en utilisant les commandes suivantes :
 ```bash
-git clone https://github.com/nawfelkerarsi/Aristocarte.git
+git clone https://github.com/nawfelkerarsi/AristoCartes.git
 
 ```
 
 ## Fonctionnalités
-1. Le jeu Aristocarte est en français mais également disponible en anglais et les joueurs peuvent choisir leur langue préférée au lancement du jeu. 
-2.En plus du mode joueur contre joueur, Aristocarte offre également la possibilité de jouer contre l'ordinateur. Pour jouer contre l'ordinateur, le joueur peut simplement choisir le mode "Contre un autre joueur" lors du lancement du jeu et sélectionner le niveau de difficulté souhaité. 
-3.Le jeu est également personnalisable, avec la possibilité d'ajouter des cartes supplémentaires dans le fichier "cartes.txt" en respectant le modèle de données. Enfin, Aristocarte offre une expérience de jeu amusante et stratégique, adaptée aux joueurs qui cherchent à tester leur intelligence et leur compétence en matière de cartes.
+1. Le jeu AristoCartes est en français mais également disponible en anglais et les joueurs peuvent choisir leur langue préférée au lancement du jeu. 
+2.En plus du mode joueur contre joueur, AristoCartes offre également la possibilité de jouer contre l'ordinateur. Pour jouer contre l'ordinateur, le joueur peut simplement choisir le mode "Contre un autre joueur" lors du lancement du jeu et sélectionner le niveau de difficulté souhaité. 
+3.Le jeu est également personnalisable, avec la possibilité d'ajouter des cartes supplémentaires dans le fichier "cartes.txt" en respectant le modèle de données. Enfin, AristoCartes offre une expérience de jeu amusante et stratégique, adaptée aux joueurs qui cherchent à tester leur intelligence et leur compétence en matière de cartes.
 
 ## Capture d'écran
-![screenshot](https://raw.githubusercontent.com/nawfelkerarsi/Aristocarte/main/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/nawfelkerarsi/AristoCartes/main/screenshot.png)
 ## Utilisations
 
 Lorsque le jeu démarre, vous devez choisir un pseudo pour chaque joueur si vous êtes en mode multi-joueur, ou simplement votre pseudo si vous êtes en mode solo. Ensuite, vous pouvez sélectionner les cartes que vous voulez ajouter à votre jeu de cartes. Les cartes sont stockées dans un fichier texte nommé `cartes.txt`. Vous pouvez modifier ce fichier pour ajouter, modifier ou supprimer des cartes.
