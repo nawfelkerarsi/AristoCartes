@@ -12,9 +12,9 @@ git clone https://github.com/nawfelkerarsi/AristoCartes.git
 ## Fonctionnalités
 1. Le jeu AristoCartes est en français mais également disponible en anglais et les joueurs peuvent choisir leur langue préférée au lancement du jeu. 
 
-2.En plus du mode joueur contre joueur, AristoCartes offre également la possibilité de jouer contre l'ordinateur. Pour jouer contre l'ordinateur, le joueur peut simplement choisir le mode "Contre un autre joueur" lors du lancement du jeu et sélectionner le niveau de difficulté souhaité. 
+2. En plus du mode joueur contre joueur, AristoCartes offre également la possibilité de jouer contre l'ordinateur. Pour jouer contre l'ordinateur, le joueur peut simplement choisir le mode "Contre un autre joueur" lors du lancement du jeu et sélectionner le niveau de difficulté souhaité. 
 
-3.Le jeu est également personnalisable, avec la possibilité d'ajouter des cartes supplémentaires dans le fichier "cartes.txt" en respectant le modèle de données. Enfin, AristoCartes offre une expérience de jeu amusante et stratégique, adaptée aux joueurs qui cherchent à tester leur intelligence et leur compétence en matière de cartes.
+3. Le jeu est également personnalisable, avec la possibilité d'ajouter des cartes supplémentaires dans le fichier "cartes.txt" en respectant le modèle de données. Enfin, AristoCartes offre une expérience de jeu amusante et stratégique, adaptée aux joueurs qui cherchent à tester leur intelligence et leur compétence en matière de cartes.
 
 ## Capture d'écran
 ![screenshot](https://raw.githubusercontent.com/nawfelkerarsi/AristoCartes/main/screenshot.png)
