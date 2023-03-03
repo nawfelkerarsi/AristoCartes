@@ -4,6 +4,7 @@ AristoCartes est un jeu de cartes. Le but est de réduire les points de prestige
 
 ## Installation
 Pour installer AristoCartes, vous devez disposer du compilateur C++ et de la bibliothèque standard C++ STL. Vous pouvez cloner le dépôt GitHub et compiler le programme en utilisant les commandes suivantes :
+
 ```bash
 git clone https://github.com/nawfelkerarsi/AristoCartes.git
 
